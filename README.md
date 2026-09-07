@@ -1,407 +1,210 @@
 # 👋 Hi, I'm Supriya Devkota
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%F0%9F%A7%A0;Data+Science+%7C+Generative+AI+%F0%9F%94%AC;Exploring+LLMs+%26+RAG+%F0%9F%A4%97;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+### 🤖 AI/ML Engineer | Machine Learning | Data Science | Generative AI
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=supriya-006&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=supriya-006&label=Profile%20Views&color=0e75b6&style=flat" alt="supriya-006" />
 </p>
 
 ---
 
-## 🤖 About Me
+## 🚀 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ2bG9qOWZ6aHh5d2V6a3F6Z3R1dG5wY2F6aW9oM3F5bWZ5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif">
-
-I'm an aspiring **AI/ML Engineer** passionate about building intelligent systems and solving real-world problems with data.
-
-My current journey is focused on:
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🔬 Deep Learning
-* 📊 Data Science
-* 🤗 Generative AI
-* 🧩 Large Language Models
-* 🔎 Retrieval-Augmented Generation
-* ⚙️ MLOps & Production AI
-
-I learn primarily through **hands-on projects, experimentation, internships, datasets, and continuous practice**.
-
-<br clear="right"/>
+* 🔭 I’m currently working on **AI/ML projects and gaining industry experience through an AI/ML internship**
+* 🌱 I’m currently learning **Machine Learning, Deep Learning, Generative AI, LLMs, RAG, and MLOps**
+* 🤝 I’m looking to collaborate on **AI/ML, Data Science, Generative AI, and open-source projects**
+* 💬 Ask me about **Python, Machine Learning, Data Science, Deep Learning, Data Analysis, and AI**
+* 🧠 Currently exploring **LLMs, Embeddings, Vector Databases, and Retrieval-Augmented Generation (RAG)**
+* ⚡ Fun fact: **I learn AI by turning concepts into practical projects and experiments.**
 
 ---
 
-# 🧠 My AI/ML Stack
+## 🛠️ My AI/ML Tech Stack
 
-### 🐍 Programming & Data
+### 🐍 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 📊 Data Science & Analysis
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### 🤖 Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=sklearn" />
-</p>
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
-```text
-████████████████████████████  Machine Learning
-██████████████████████████░░  Data Preprocessing
-████████████████████████░░░░  Feature Engineering
-██████████████████████░░░░░░  Model Evaluation
-```
+**Areas:**
+
+`Data Preprocessing` `EDA` `Feature Engineering` `Classification` `Regression` `Model Evaluation` `Predictive Modeling`
 
 ### 🧠 Deep Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,keras" />
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
 
-```text
-Neural Networks       ███████████████████░░░
-Image Classification  ██████████████████░░░░
-Model Training        ███████████████████░░░
-```
+**Areas:**
+
+`Neural Networks` `Image Classification` `Model Training` `Deep Learning`
 
 ### 🤗 Generative AI
 
-```text
-LLMs                  ████████████████░░░░░
-Prompt Engineering    █████████████████░░░░
-Embeddings             ██████████████░░░░░░░
-RAG                    █████████████░░░░░░░░
-Vector Search          ███████████░░░░░░░░░░
-```
+![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+
+**Currently exploring:**
+
+`LLMs` `Prompt Engineering` `Embeddings` `Vector Search` `RAG` `AI Chatbots`
+
+### 🔬 Tools & Platforms
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-# 💼 AI/ML Experience
+## 💼 AI/ML Experience
 
-## 🔎 FlyRank — AI/ML Internship
+### 🔎 AI/ML Internship — FlyRank
 
-Currently gaining practical industry experience through an AI/ML internship.
+Currently developing practical experience in an industry-oriented AI/ML environment.
 
-### What I'm developing:
+**Skills I'm developing:**
 
-```text
-Search Intelligence
-        ↓
-Dataset Exploration
-        ↓
-Data Validation
-        ↓
-Data Quality Analysis
-        ↓
-Pattern Identification
-        ↓
-Actionable Insights
-```
-
-This experience is helping me understand how **AI/ML concepts are applied to real-world data and industry problems**.
+* 🔍 Search Intelligence
+* 📊 Real-world dataset analysis
+* 🧹 Data cleaning and validation
+* 🔬 Data quality analysis
+* 📈 Pattern identification
+* 🧠 Machine Learning workflows
+* 🗃️ Working with large-scale datasets
+* 💡 Extracting actionable insights from data
 
 ---
 
-# 🚀 Featured AI/ML Projects
-
-<table>
-<tr>
-<td width="50%">
+## 🚀 Featured AI/ML Projects
 
 ### 🧠 Brain Tumor Detection
 
-Deep learning project focused on medical image classification.
+A Deep Learning project focused on detecting brain tumors using medical images.
 
-**Focus**
+**Tech:** `Python` `TensorFlow` `Keras` `NumPy`
 
-`Deep Learning` `CNN` `Image Classification`
+**Focus:**
+`Deep Learning` `Image Classification` `Model Training` `Model Evaluation`
 
-**Tools**
-
-`Python` `TensorFlow` `Keras`
-
-</td>
-
-<td width="50%">
+---
 
 ### 💳 Online Fraud Detection
 
-Machine learning system for identifying potentially fraudulent transactions.
+A Machine Learning project focused on identifying potentially fraudulent transactions.
 
-**Focus**
+**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn`
 
-`Classification` `EDA` `Feature Engineering`
+**Focus:**
+`Classification` `Data Analysis` `Feature Engineering` `Model Evaluation`
 
-**Tools**
-
-`Python` `Pandas` `Scikit-learn`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### ⚽ World Cup 2026 Prediction
 
-Predictive analytics project using player and team match data.
+A predictive analytics project using player and team match data to explore machine learning-based sports prediction.
 
-**Focus**
+**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn`
 
-`Data Cleaning` `Feature Engineering` `Prediction`
-
-**Tools**
-
-`Python` `Pandas` `NumPy` `Scikit-learn`
-
-</td>
-
-<td width="50%">
-
-### 🤗 RAG & Generative AI
-
-Exploring LLM-powered applications using external knowledge retrieval.
-
-**Focus**
-
-`LLMs` `Embeddings` `Vector Search` `RAG`
-
-**Status**
-
-🚧 Currently Learning
-
-</td>
-</tr>
-</table>
+**Focus:**
+`Data Cleaning` `Feature Engineering` `Predictive Modeling` `Sports Analytics`
 
 ---
 
-# 🔎 Currently Exploring RAG
+### 🤗 Generative AI & RAG
+
+Currently exploring how LLMs can be combined with external knowledge using Retrieval-Augmented Generation.
+
+**Learning:**
 
 ```text
-              ┌──────────────────┐
-              │    User Query    │
-              └────────┬─────────┘
-                       ↓
-              ┌──────────────────┐
-              │ Query Processing │
-              └────────┬─────────┘
-                       ↓
-              ┌──────────────────┐
-              │    Embeddings    │
-              └────────┬─────────┘
-                       ↓
-              ┌──────────────────┐
-              │ Vector Database  │
-              └────────┬─────────┘
-                       ↓
-              ┌──────────────────┐
-              │ Context Retrieval│
-              └────────┬─────────┘
-                       ↓
-              ┌──────────────────┐
-              │       LLM        │
-              └────────┬─────────┘
-                       ↓
-              ┌──────────────────┐
-              │ AI Response 🤖   │
-              └──────────────────┘
+User Query
+    ↓
+Query Processing
+    ↓
+Embedding
+    ↓
+Vector Database
+    ↓
+Relevant Context
+    ↓
+LLM
+    ↓
+AI Response 🤖
 ```
 
 ---
 
-# 📚 My AI Learning Journey
-
-<details>
-<summary>🐍 Python & Data Science</summary>
-
-* Python for Data Science
-* NumPy
-* Pandas
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Visualization
-* Working with real-world datasets
-
-</details>
-
-<details>
-<summary>🤖 Machine Learning</summary>
-
-* Supervised Learning
-* Classification
-* Regression
-* Feature Engineering
-* Model Evaluation
-* Predictive Modeling
-
-</details>
-
-<details>
-<summary>🧠 Deep Learning</summary>
-
-* Neural Networks
-* Image Classification
-* TensorFlow
-* Keras
-* Model Training
-* Model Evaluation
-
-</details>
-
-<details>
-<summary>🤗 Generative AI</summary>
-
-* Large Language Models
-* Prompt Engineering
-* Embeddings
-* Vector Search
-* Retrieval-Augmented Generation
-* AI-powered applications
-
-</details>
-
----
-
-# 🗺️ My AI Roadmap
+## 📚 Currently Learning
 
 ```text
-                         AI JOURNEY 🚀
-
-                         ┌──────────┐
-                         │  Python  │
-                         └────┬─────┘
-                              ↓
-                      ┌───────────────┐
-                      │ Data Science  │
-                      └───────┬───────┘
-                              ↓
-                     ┌─────────────────┐
-                     │ Machine Learning│
-                     └────────┬────────┘
-                              ↓
-                     ┌─────────────────┐
-                     │  Deep Learning  │
-                     └────────┬────────┘
-                              ↓
-                      ┌──────────────┐
-                      │  Generative  │
-                      │      AI      │
-                      └──────┬───────┘
-                             ↓
-                         ┌───────┐
-                         │ LLMs  │
-                         └───┬───┘
-                             ↓
-                         ┌───────┐
-                         │  RAG  │
-                         └───┬───┘
-                             ↓
-                         ┌───────┐
-                         │ MLOps │
-                         └───┬───┘
-                             ↓
-                    🚀 Production AI
+🐍 Python
+   ↓
+📊 Data Science
+   ↓
+🤖 Machine Learning
+   ↓
+🧠 Deep Learning
+   ↓
+🤗 Generative AI
+   ↓
+🧩 Large Language Models
+   ↓
+🔎 RAG & Vector Search
+   ↓
+⚙️ MLOps
+   ↓
+🚀 Production AI
 ```
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=supriya-006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=supriya-006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=supriya-006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriya-006&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriya-006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=supriya-006&theme=tokyonight&hide_border=true" />
-
+  <img src="https://raw.githubusercontent.com/supriya-006/supriya-006/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-# 🐍 My Contribution Snake
+## 🎯 2026 AI Goals
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/supriya-006/supriya-006/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
-
-# 📈 AI Learning Progress
-
-```text
-Python
-████████████████████████████████████████ 100%
-
-Data Science
-██████████████████████████████████░░░░░░ 85%
-
-Machine Learning
-██████████████████████████████░░░░░░░░░░ 75%
-
-Deep Learning
-████████████████████████░░░░░░░░░░░░░░░░ 60%
-
-Generative AI
-██████████████████░░░░░░░░░░░░░░░░░░░░░░ 45%
-
-LLMs
-████████████████░░░░░░░░░░░░░░░░░░░░░░░░ 40%
-
-RAG
-████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 30%
-
-MLOps
-██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20%
-```
-
-> These percentages represent my current learning progress, not formal skill ratings.
+* [ ] Build advanced Machine Learning projects
+* [ ] Strengthen Deep Learning
+* [ ] Build LLM-powered applications
+* [ ] Build practical RAG systems
+* [ ] Learn Vector Databases
+* [ ] Learn MLOps
+* [ ] Deploy ML models
+* [ ] Build production-ready AI systems
+* [ ] Contribute to AI/ML open-source projects
 
 ---
 
-# 🏆 AI/ML Learning Highlights
-
-* 🎓 Data Science & Machine Learning learning journey
-* 🤖 AI-focused bootcamp experience
-* 💼 AI/ML internship experience
-* 🧠 Deep Learning project experience
-* 📊 Machine Learning projects
-* 🤗 Generative AI exploration
-* 🔎 RAG exploration
-* 🚀 Continuous AI/ML project building
-
----
-
-# 🎯 2026 Goals
-
-```text
-☐ Build advanced ML projects
-☐ Strengthen Deep Learning
-☐ Build LLM applications
-☐ Build practical RAG systems
-☐ Learn Vector Databases
-☐ Learn MLOps
-☐ Deploy ML models
-☐ Build production-ready AI systems
-☐ Contribute to open-source AI projects
-```
-
----
-
-# 💡 My Learning Philosophy
+## 💡 My Learning Philosophy
 
 <p align="center">
 
@@ -409,20 +212,20 @@ MLOps
 
 </p>
 
-I believe that AI/ML becomes truly meaningful when theory is combined with **real datasets, experimentation, practical projects, and continuous improvement**.
+I believe the best way to learn AI/ML is by combining **strong fundamentals with hands-on projects, real-world datasets, experimentation, and continuous improvement.**
 
 ---
 
-# 📫 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<a href="https://www.linkedin.com/in/supriya-devkota/">
-<img src="https://img.shields.io/badge/LinkedIn-Supriya%20Devkota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/supriya-devkota/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Supriya%20Devkota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/supriya-006">
-<img src="https://img.shields.io/badge/GitHub-supriya--006-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/supriya-006" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-supriya--006-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </p>
@@ -431,16 +234,18 @@ I believe that AI/ML becomes truly meaningful when theory is combined with **rea
 
 <p align="center">
 
-### 🤖 Building the Future with AI, One Project at a Time.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+with+AI+%F0%9F%A4%96;Learning+Machine+Learning+%F0%9F%A7%A0;Exploring+Generative+AI+%F0%9F%A4%97;Turning+Data+into+Intelligence+%F0%9F%9A%80" alt="Typing Animation" />
 
 </p>
 
----
-
 <p align="center">
 
-⭐ If you find my projects interesting, consider giving them a star!
+### ⭐ Thanks for visiting my profile!
 
+**Let's learn, build, and innovate with AI. 🤖🚀**
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
