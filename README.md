@@ -1,139 +1,197 @@
-<h1 align="center">Hi 👋, I'm Supriya Devkota</h1>
-<h3 align="center">AI/ML Engineer | Data Science Enthusiast | Lifelong Learner</h3>
+# Hi, I'm Supriya Devkota 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Solutions;Always+Learning+Something+New" />
-</p>
+##  AI/ML Engineer | Machine Learning | Data Science | Generative AI
 
----
+I'm an aspiring **AI/ML Engineer** passionate about building intelligent, data-driven solutions using **Machine Learning, Deep Learning, Data Science, and Generative AI**.
 
-## 🚀 About Me
-
-I'm an aspiring **AI/ML Engineer** passionate about building intelligent systems that solve real-world problems.
-
-Currently, I'm working on **Search Intelligence and Large-Scale Data Analysis** through the **FlyRank AI Internship**, where I focus on querying large datasets, designing interpretable ML workflows, and building data-driven solutions.
-
-I enjoy transforming raw data into meaningful insights and continuously expanding my knowledge in Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
+I enjoy learning by building practical projects, experimenting with real-world datasets, and continuously improving my understanding of how AI systems work.
 
 ---
 
-## 🎯 Current Focus
+## About Me
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 📊 Data Science
-- 🔍 Search Intelligence
-- 📈 Data Analysis & Visualization
-- ⚡ Large Dataset Processing
-- 🐍 Python for AI
-- ☁️ AI Research & Real-world Applications
+- Focused on **Artificial Intelligence & Machine Learning**
+- Working primarily with **Python**
+- Interested in **Data Science and Data Analysis**
+- Exploring **Deep Learning**
+- Learning **Generative AI and Large Language Models**
+- Exploring **Retrieval-Augmented Generation (RAG)**
+- Gaining practical experience through an **AI/ML internship**
+- Interested in building real-world and production-oriented AI systems
+- Continuously learning and experimenting with new AI technologies
 
 ---
 
-## 🛠 Tech Stack
+## AI/ML Tech Stack
 
-### Languages
+### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### Data Science
 
-### AI & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- TensorFlow
-- Keras
-- Jupyter Notebook
-- Google Colab
+### Machine Learning
 
----
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Tools
+- Supervised Learning
+- Classification
+- Regression
+- Feature Engineering
+- Data Preprocessing
+- Model Evaluation
+- Predictive Modeling
 
-- Git
-- GitHub
-- VS Code
-- Linux
-- Google Colab
+### Deep Learning
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-## 📚 Learning Journey
+- Neural Networks
+- Image Classification
+- Deep Learning Model Training
+- Model Evaluation
 
-✔ Data Science & Machine Learning
+### Data Visualization
 
-✔ Deep Learning
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-✔ Large-Scale Data Analysis
+- Exploratory Data Analysis
+- Data Visualization
+- Pattern Analysis
 
-✔ Search Intelligence
+### AI & Generative AI
 
-✔ Model Evaluation
-
-✔ Feature Engineering
-
-✔ Data Visualization
-
----
-
-## 📂 Featured Projects
-
-### 🧠 Brain Tumor Detection
-Machine Learning project for detecting brain tumors using medical imaging and deep learning techniques.
-
----
-
-### 🔍 Search Intelligence (FlyRank AI Internship)
-Building interpretable machine learning workflows, querying large datasets, validating data quality, and extracting actionable insights from search data.
-
----
-
-### 📊 Data Science Projects
-A collection of machine learning models, exploratory data analysis, feature engineering, and predictive analytics projects.
-
----
-
-## 🏆 Certifications
-
-- 🎓 Data Science & Machine Learning Diploma — SkillShikshya
-- 🤖 Lakshyarambha AI Bootcamp 2026
-- 🚀 FlyRank AI Internship
-
----
-
-## 🌱 Currently Learning
-
+- Generative AI
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- MLOps
-- Advanced Deep Learning
-- Search Intelligence Systems
-- Generative AI
+- AI-powered applications
+- Prompt Engineering
+- AI-assisted workflows
 
----
-## 🤝 Connect with Me
+### Development & Experimentation
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
-## 💡 Quote
+# AI/ML Experience
 
-> "Artificial Intelligence is not about replacing humans; it's about empowering them with better decisions."
+## FlyRank — AI/ML Internship
+
+Currently developing practical AI/ML skills through an industry-oriented internship.
+
+### Skills and areas I've been working with:
+
+- Search Intelligence
+- Machine Learning workflows
+- Real-world dataset analysis
+- Data exploration and validation
+- Data quality checking
+- Feature analysis
+- Large-scale data processing
+- Extracting insights from search-related data
+- Working with practical datasets
+- Applying AI/ML concepts to real-world problems
+
+This experience has helped me understand the difference between learning ML concepts theoretically and applying them to real-world data.
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+# AI/ML Projects
+
+## Brain Tumor Detection
+
+A machine learning/deep learning project focused on detecting brain tumors from medical images.
+
+### Key Areas
+
+- Image preprocessing
+- Deep Learning
+- Image classification
+- Model training
+- Model evaluation
+
+### Technologies
+
+`Python` `TensorFlow` `Keras` `NumPy` `Matplotlib`
+
+---
+
+## Online Fraud Detection
+
+An AI/ML project focused on identifying potentially fraudulent transactions using machine learning.
+
+### Key Areas
+
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature engineering
+- Classification
+- Model evaluation
+- Fraud pattern identification
+
+### Technologies
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+
+---
+
+## World Cup 2026 Prediction
+
+A predictive analytics project exploring machine learning approaches for World Cup 2026 prediction.
+
+The project involves working with player and team match data and preparing datasets for predictive modeling.
+
+### Key Areas
+
+- Dataset exploration
+- Missing-value analysis
+- Data cleaning
+- Feature engineering
+- Team and player data analysis
+- Predictive modeling
+- Model evaluation
+
+### Technologies
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+
+---
+
+# Generative AI & RAG
+
+I'm currently expanding my knowledge beyond traditional ML into **Generative AI and LLM-powered applications**.
+
+### Currently exploring:
+
+- Large Language Models
+- Prompt Engineering
+- Embeddings
+- Vector Databases
+- Semantic Search
+- Retrieval-Augmented Generation
+- Context-aware AI assistants
+- AI chatbot systems
+- Integrating AI with existing applications
+
+### RAG Architecture I'm Learning
+
+```text
+User Query
+    ↓
+Query Processing
+    ↓
+Embedding Generation
+    ↓
+Vector Database
+    ↓
+Relevant Context Retrieval
+    ↓
+LLM
+    ↓
+Generated Response
