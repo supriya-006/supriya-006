@@ -1,75 +1,133 @@
-# 👋 Hi, I'm Supriya Devkota
+<div align="center">
 
-### 🤖 AI/ML Engineer | Machine Learning | Data Science | Generative AI
+# ⚡ SUPRIYA DEVKOTA
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning;Exploring+LLMs+%26+RAG;Building+Practical+AI+Systems;Turning+Data+into+Intelligence+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+### `AI / ML ENGINEER`
 
-<p align="center">
-  <a href="https://github.com/supriya-006">
-    <img src="https://komarev.com/ghpvc/?username=supriya-006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/supriya-006?label=Followers&style=flat" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/supriya-006?label=Stars&style=flat" alt="GitHub Stars"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%F0%9F%A7%A0;Generative+AI+%7C+LLMs+%F0%9F%A4%97;RAG+%7C+Embeddings+%7C+Vector+Search+%F0%9F%94%8E;Building+Intelligent+Systems+%F0%9F%9A%80" alt="AI Engineer Typing Animation"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/supriya-devkota/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/supriya-006">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/supriya-006">
+<img src="https://komarev.com/ghpvc/?username=supriya-006&style=for-the-badge&label=PROFILE+VIEWS&color=00F7FF"/>
+</a>
+
+<a href="https://github.com/supriya-006">
+<img src="https://img.shields.io/github/followers/supriya-006?style=for-the-badge&label=FOLLOWERS&color=8A2BE2"/>
+</a>
+
+<a href="https://www.linkedin.com/in/supriya-devkota/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-I'm an **AI/ML Engineer focused on building practical, data-driven and intelligent applications**.
-
-My interests span from traditional Machine Learning and Deep Learning to modern **Generative AI, LLMs, RAG, embeddings, and vector search**.
+## 🌌 `WELCOME TO MY AI LAB`
 
 ```text
-Data
-  ↓
-Data Analysis
-  ↓
-Machine Learning
-  ↓
-Deep Learning
-  ↓
-Generative AI
-  ↓
-LLMs + Embeddings
-  ↓
-RAG + Vector Search
-  ↓
-Production AI Systems
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║        DATA  →  LEARN  →  REASON  →  GENERATE           ║
+║                                                          ║
+║       MACHINE INTELLIGENCE IS BUILT, NOT MAGIC.         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-### 🚀 What I'm currently doing
-
-* 🔭 Building and experimenting with **AI/ML projects**
-* 💼 Gaining practical experience through an **AI/ML internship**
-* 🌱 Learning **Machine Learning, Deep Learning, GenAI, LLMs, RAG & MLOps**
-* 🧠 Exploring **Embeddings, Vector Databases and AI Agents**
-* 🔬 Working with real-world datasets and ML workflows
-* 🤝 Interested in collaborating on **AI/ML and open-source projects**
-* ⚡ Learning by **building, experimenting, evaluating and improving**
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🧬 `WHO AM I?`
 
-## 🐍 Programming
+```python
+class SupriyaDevkota:
+
+    identity = "AI/ML Engineer"
+
+    interests = [
+        "Machine Learning",
+        "Deep Learning",
+        "Generative AI",
+        "Large Language Models",
+        "RAG",
+        "Embeddings",
+        "Vector Search"
+    ]
+
+    philosophy = "Learn → Build → Experiment → Evaluate → Improve"
+
+    mission = "Turn data into intelligent systems 🚀"
+```
+
+I'm an **AI/ML Engineer** passionate about transforming data, algorithms, and emerging AI technologies into practical intelligent applications.
+
+My journey moves across:
+
+<div align="center">
+
+`📊 DATA SCIENCE`
+
+⬇️
+
+`🤖 MACHINE LEARNING`
+
+⬇️
+
+`🧠 DEEP LEARNING`
+
+⬇️
+
+`🤗 GENERATIVE AI`
+
+⬇️
+
+`🧩 LLMs`
+
+⬇️
+
+`🔎 RAG + VECTOR SEARCH`
+
+⬇️
+
+`🚀 PRODUCTION AI`
+
+</div>
+
+---
+
+# ⚡ `CURRENTLY IN THE LAB`
+
+<div align="center">
+
+|      🔬 AREA      | 🚀 CURRENT FOCUS                  |
+| :---------------: | :-------------------------------- |
+|       🤖 ML       | Model development & evaluation    |
+|  🧠 Deep Learning | Neural networks & CNNs            |
+|      🤗 GenAI     | LLM-powered applications          |
+|       🔎 RAG      | Retrieval + generation pipelines  |
+|      🧩 LLMs      | Prompt engineering & applications |
+| 🗄️ Vector Search | Embeddings & semantic retrieval   |
+|      📊 Data      | Real-world dataset analysis       |
+|      ⚙️ MLOps     | Learning production AI workflows  |
+
+</div>
+
+---
+
+# 🛠️ `AI ENGINEERING STACK`
+
+### 🐍 PROGRAMMING
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
 </p>
 
-## 📊 Data Science & Analytics
+### 📊 DATA & ANALYTICS
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -77,46 +135,34 @@ Production AI Systems
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-**Skills**
+`Data Cleaning` `EDA` `Visualization` `Statistics`
 
-`Data Cleaning` `EDA` `Data Visualization` `Statistical Analysis`
+`Feature Engineering` `Preprocessing` `Data Validation`
 
-`Feature Engineering` `Data Preprocessing` `Data Validation`
-
----
-
-## 🤖 Machine Learning
+### 🤖 MACHINE LEARNING
 
 <p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-**Areas**
-
 `Classification` `Regression` `Clustering`
 
-`Feature Engineering` `Model Training` `Model Evaluation`
+`Predictive Modeling` `Model Evaluation`
 
-`Predictive Modeling` `Hyperparameter Tuning`
+`Feature Engineering` `Hyperparameter Tuning`
 
----
-
-## 🧠 Deep Learning
+### 🧠 DEEP LEARNING
 
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
 
-**Areas**
-
 `Neural Networks` `CNN` `Image Classification`
 
-`Model Training` `Model Evaluation` `Deep Learning`
+`Model Training` `Model Evaluation`
 
----
-
-## 🤗 Generative AI
+### 🤗 GENERATIVE AI
 
 <p>
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
@@ -125,72 +171,72 @@ Production AI Systems
 <img src="https://img.shields.io/badge/Embeddings-4285F4?style=for-the-badge"/>
 </p>
 
-**Currently exploring**
+`Prompt Engineering` `LLMs` `Embeddings`
 
-`Prompt Engineering`
+`Vector Search` `RAG` `AI Chatbots`
 
-`Large Language Models`
+`Knowledge Retrieval` `AI Agents`
 
-`Embeddings`
-
-`Vector Search`
-
-`Vector Databases`
-
-`Retrieval-Augmented Generation`
-
-`AI Chatbots`
-
-`AI Agents`
-
----
-
-## 🔧 Tools & Platforms
+### 🔧 TOOLS
 
 <p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/>
 </p>
+
+`Jupyter` `Google Colab` `Git` `GitHub`
 
 ---
 
-# 💼 AI/ML Experience
+# 💼 `INDUSTRY EXPERIENCE`
 
 ## 🔎 AI/ML Intern — FlyRank
 
-Currently developing practical experience in an industry-oriented AI/ML environment.
+> Building practical experience in an industry-oriented AI/ML environment.
 
-### Skills I'm developing
-
-* 🔍 Search Intelligence
-* 📊 Real-world Dataset Analysis
-* 🧹 Data Cleaning & Validation
-* 🔬 Data Quality Analysis
-* 📈 Pattern Identification
-* 🧠 Machine Learning Workflows
-* 🗃️ Large-Scale Dataset Handling
-* 💡 Extracting Actionable Insights
-* 📊 Data-Driven Decision Making
+```text
+╭────────────────────────────────────────────────╮
+│                                                │
+│  🔍 Search Intelligence                        │
+│  📊 Real-world Dataset Analysis                │
+│  🧹 Data Cleaning & Validation                 │
+│  🔬 Data Quality Analysis                      │
+│  📈 Pattern Identification                     │
+│  🧠 Machine Learning Workflows                 │
+│  🗃️ Large-scale Dataset Handling               │
+│  💡 Actionable Insight Extraction              │
+│  📊 Data-driven Decision Making                │
+│                                                │
+╰────────────────────────────────────────────────╯
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 `PROJECTS IN THE AI LAB`
 
 ## 🧠 Brain Tumor Detection
 
-> Deep Learning-based image classification project focused on detecting brain tumors from medical images.
+> Deep Learning-based image classification system focused on detecting brain tumors from medical images.
 
-**Tech Stack**
+<p>
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNN-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square"/>
+</p>
 
-`Python` `TensorFlow` `Keras` `NumPy`
-
-**Focus**
-
-`CNN` `Image Classification` `Deep Learning`
-
-`Model Training` `Model Evaluation`
+```text
+Medical Images
+      ↓
+Preprocessing
+      ↓
+CNN
+      ↓
+Training
+      ↓
+Evaluation
+      ↓
+Prediction 🧠
+```
 
 ---
 
@@ -198,17 +244,25 @@ Currently developing practical experience in an industry-oriented AI/ML environm
 
 > Machine Learning project designed to identify potentially fraudulent financial transactions.
 
-**Tech Stack**
+<p>
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Classification-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-00C853?style=flat-square"/>
+</p>
 
-`Python` `Pandas` `NumPy` `Scikit-learn`
-
-**Focus**
-
-`Classification` `Feature Engineering`
-
-`Data Analysis` `Model Evaluation`
-
-`Predictive Modeling`
+```text
+Transaction Data
+      ↓
+Data Cleaning
+      ↓
+Feature Engineering
+      ↓
+ML Model
+      ↓
+Evaluation
+      ↓
+Fraud / Legitimate
+```
 
 ---
 
@@ -216,197 +270,263 @@ Currently developing practical experience in an industry-oriented AI/ML environm
 
 > Predictive analytics project exploring machine learning approaches for sports prediction using player and team match data.
 
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `Scikit-learn`
-
-**Focus**
-
-`Data Cleaning` `Feature Engineering`
-
-`Predictive Modeling` `Sports Analytics`
-
-`Machine Learning`
-
----
-
-## 🤖 Generative AI & RAG
-
-> Exploring how Large Language Models can be connected with external knowledge using Retrieval-Augmented Generation.
-
-### RAG Architecture
+<p>
+<img src="https://img.shields.io/badge/Sports_Analytics-00A8E8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Predictive_Modeling-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square"/>
+</p>
 
 ```text
-                 USER
-                   │
-                   ▼
-              User Query
-                   │
-                   ▼
-           Query Processing
-                   │
-                   ▼
-              Embedding
-                   │
-                   ▼
-          ┌─────────────────┐
-          │ Vector Database │
-          └─────────────────┘
-                   │
-                   ▼
-         Relevant Documents
-                   │
-                   ▼
-              Context
-                   │
-                   ▼
-                 LLM
-                   │
-                   ▼
-            AI Response 🤖
-```
-
-### Learning
-
-`LLMs` `Prompt Engineering` `Embeddings`
-
-`Vector Search` `RAG` `AI Chatbots`
-
-`Knowledge Retrieval` `AI Agents`
-
----
-
-# 📚 My AI/ML Learning Journey
-
-```text
-                🐍 Python
-                   │
-                   ▼
-            📊 Data Science
-                   │
-                   ▼
-          🤖 Machine Learning
-                   │
-                   ▼
-           🧠 Deep Learning
-                   │
-                   ▼
-          🤗 Generative AI
-                   │
-                   ▼
-          🧩 Large Language Models
-                   │
-                   ▼
-             🔎 RAG Systems
-                   │
-                   ▼
-          🗄️ Vector Databases
-                   │
-                   ▼
-              ⚙️ MLOps
-                   │
-                   ▼
-          🚀 Production AI
+Player Data + Match Data
+          ↓
+      Cleaning
+          ↓
+ Feature Engineering
+          ↓
+   Predictive Model
+          ↓
+    Match Insights ⚽
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 🤖 `RAG // KNOWLEDGE ENGINE`
 
-* [ ] Build advanced Machine Learning projects
-* [ ] Strengthen Deep Learning fundamentals
-* [ ] Build LLM-powered applications
-* [ ] Build practical RAG systems
-* [ ] Learn Vector Databases
-* [ ] Explore AI Agents
-* [ ] Learn MLOps
-* [ ] Deploy Machine Learning models
-* [ ] Build production-ready AI applications
-* [ ] Contribute to AI/ML open-source projects
+### The system I'm learning to build
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=supriya-006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=supriya-006&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriya-006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/supriya-006/supriya-006/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-# 💡 My Learning Philosophy
-
-<p align="center">
-
-## Learn → Build → Experiment → Evaluate → Improve
-
-</p>
-
-I believe that the best way to learn AI is not only by studying theory, but by **turning concepts into working projects**.
-
-I focus on:
+<div align="center">
 
 ```text
-Learn
-  ↓
-Understand
-  ↓
-Build
-  ↓
-Experiment
-  ↓
-Evaluate
-  ↓
-Improve
-  ↓
-Share
+                     👤 USER
+                       │
+                       ▼
+                 💬 QUESTION
+                       │
+                       ▼
+              ⚙️ QUERY PROCESSING
+                       │
+                       ▼
+                🔢 EMBEDDING
+                       │
+                       ▼
+             ┌──────────────────┐
+             │   🔎 VECTOR DB   │
+             └────────┬─────────┘
+                      │
+                      ▼
+               📄 RETRIEVAL
+                      │
+                      ▼
+                🧩 CONTEXT
+                      │
+                      ▼
+             ┌──────────────────┐
+             │     🤗 LLM       │
+             └────────┬─────────┘
+                      │
+                      ▼
+                 🤖 RESPONSE
 ```
+
+</div>
+
+### 🧠 RAG Pipeline
+
+```text
+Documents
+   │
+   ▼
+Chunking
+   │
+   ▼
+Embeddings
+   │
+   ▼
+Vector Database
+   │
+   ▼
+Semantic Retrieval
+   │
+   ▼
+Relevant Context
+   │
+   ▼
+LLM
+   │
+   ▼
+Grounded Response
+```
+
+**Exploring:**
+
+`RAG` · `Embeddings` · `Vector Databases`
+
+`Semantic Search` · `Prompt Engineering`
+
+`LLMs` · `AI Chatbots` · `AI Agents`
 
 ---
 
-# 🌐 Let's Connect
+# 🧭 `MY AI EVOLUTION`
 
-<p align="center">
+<div align="center">
+
+```text
+             🐍 PYTHON
+                 │
+                 ▼
+          📊 DATA SCIENCE
+                 │
+                 ▼
+        🤖 MACHINE LEARNING
+                 │
+                 ▼
+         🧠 DEEP LEARNING
+                 │
+                 ▼
+        🤗 GENERATIVE AI
+                 │
+                 ▼
+            🧩 LLMs
+                 │
+                 ▼
+          🔎 RAG SYSTEMS
+                 │
+                 ▼
+       🗄️ VECTOR DATABASES
+                 │
+                 ▼
+             ⚙️ MLOps
+                 │
+                 ▼
+          🚀 PRODUCTION AI
+```
+
+</div>
+
+---
+
+# 🎯 `2026 MISSION CONTROL`
+
+<div align="center">
+
+```text
+╔════════════════════════════════════════════════════╗
+║                 🚀 2026 OBJECTIVES                 ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  ⬜ Advanced Machine Learning Projects             ║
+║  ⬜ Stronger Deep Learning Fundamentals             ║
+║  ⬜ LLM-powered Applications                       ║
+║  ⬜ Practical RAG Systems                           ║
+║  ⬜ Vector Database Expertise                      ║
+║  ⬜ AI Agents                                      ║
+║  ⬜ MLOps                                          ║
+║  ⬜ ML Model Deployment                            ║
+║  ⬜ Production-ready AI Applications               ║
+║  ⬜ Open-source AI/ML Contributions                ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 📊 `GITHUB // SYSTEM STATUS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=supriya-006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=supriya-006&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriya-006&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 `CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/supriya-006/supriya-006/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🧠 `ENGINEERING MINDSET`
+
+<div align="center">
+
+### `LEARN → BUILD → EXPERIMENT → EVALUATE → IMPROVE`
+
+</div>
+
+```text
+                  ┌───────────────┐
+                  │     LEARN     │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │   UNDERSTAND  │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │     BUILD     │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │  EXPERIMENT   │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │    EVALUATE   │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │    IMPROVE    │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │     SHARE     │
+                  └───────────────┘
+```
+
+> **I don't just want to use AI. I want to understand it, build with it, and engineer systems around it.**
+
+---
+
+# 🌐 `CONNECT WITH ME`
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/supriya-devkota/">
-<img src="https://img.shields.io/badge/LinkedIn-Supriya_Devkota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-SUPRIYA_DEVKOTA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/supriya-006">
-<img src="https://img.shields.io/badge/GitHub-supriya--006-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-SUPRIYA--006-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+AI+lab+%F0%9F%91%8B;Keep+learning.+Keep+building.+Keep+experimenting.+%F0%9F%9A%80;The+future+is+intelligent.+%F0%9F%A4%96" />
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+with+AI+%F0%9F%A4%96;Learning+Machine+Learning+%F0%9F%A7%A0;Exploring+Generative+AI+%F0%9F%A4%97;Turning+Data+into+Intelligence+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:00F7FF&height=140&section=footer"/>
 
-</p>
+### 🤖 `BUILD • LEARN • INNOVATE`
 
-<p align="center">
+**Made with curiosity, Python, and a lot of AI. 🚀**
 
-### ⭐ Thanks for visiting my profile!
-
-**Let's learn, build, and innovate with AI. 🤖🚀**
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</div>
